@@ -1,5 +1,5 @@
 # Game Website Frontend
-MY web application provides a comprehensive platform for gamers to search, view, and interact with game information and build teams for multiplayer games.
+This web application provides a comprehensive platform for gamers to search, view, and interact with game information and build teams for multiplayer games.
 
 ## Getting Started
 

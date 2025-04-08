@@ -1,4 +1,4 @@
-# 🎮 Group2Backend
+# Group2Backend
 
 A backend system built with **Java 17**, **Spring Boot**, **MySQL**, and **MyBatis**, allowing users to:
 
@@ -9,7 +9,7 @@ A backend system built with **Java 17**, **Spring Boot**, **MySQL**, and **MyBat
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - Java 17
 - Spring Boot 3.x
@@ -20,7 +20,7 @@ A backend system built with **Java 17**, **Spring Boot**, **MySQL**, and **MyBat
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 com.example.group2backend/
@@ -42,7 +42,7 @@ com.example.group2backend/
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 ### application.yml
 
@@ -65,9 +65,9 @@ mybatis:
 
 ---
 
-## 🧰 Setup Instructions
+## Setup Instructions
 
-### ✅ 1. Create MySQL Database
+### 1. Create MySQL Database
 
 ```sql
 CREATE DATABASE group2 CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
@@ -94,7 +94,7 @@ CREATE TABLE users (
 );
 ```
 
-### ✅ 2. Build and Run
+### 2. Build and Run
 
 ```bash
 ./gradlew build
@@ -105,7 +105,7 @@ Server runs at: `http://localhost:8080`
 
 ---
 
-## 🔐 Authentication
+## Authentication
 
 The system uses stateless JWT-based authentication.
 
@@ -118,9 +118,9 @@ Authorization: Bearer <your-token>
 
 ---
 
-## 📦 API Overview
+## API Overview
 
-### 👤 User
+### User
 
 | Method | Endpoint           | Description               |
 |--------|--------------------|---------------------------|
@@ -128,7 +128,7 @@ Authorization: Bearer <your-token>
 | POST   | /user/login         | Login and receive token   |
 | GET    | /user/me            | Get current user info     |
 
-### 🎮 Game
+### Game
 
 | Method | Endpoint                 | Description                     |
 |--------|--------------------------|---------------------------------|
@@ -137,7 +137,7 @@ Authorization: Bearer <your-token>
 | POST   | /game/{id}/comments      | Add a comment (requires token)  |
 
 ---
-## ▶️ To Run the App
+## To Run the App
 
 1. Make sure MySQL is running and database `group2` is created
 2. Configure credentials in `application.yml`
@@ -152,6 +152,6 @@ Runs at: `http://localhost:8080`
 
 ---
 
-## 📄 License
+## License
 
-MIT License. Free to use and modify.
+Free to use and modify.
