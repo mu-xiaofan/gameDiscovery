@@ -47,3 +47,7 @@ npm start
  ![gameinfo](resources/img/gameinfo.png)
 
  A detailed game info page, featuring key details and providing easy discovery of new gaming adventures.
+
+ ## License
+ 
+ Free to use and modify.

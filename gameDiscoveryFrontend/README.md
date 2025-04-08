@@ -74,3 +74,7 @@ Accessed through the Login button:
 - Features clean, intuitive design for ease of use
 
 Each page is designed with consistent navigation elements and optimized styling for an enhanced user experience.
+
+## License
+
+Free to use and modify.
