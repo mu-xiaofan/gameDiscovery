@@ -3,22 +3,17 @@ This web app is a dynamic platform for gamers designed to streamline the discove
 
 ## Setup Instructions
 
-### 1. Navigate to the Project Directory
-```bash
-cd your-project-directory
-```
-
-### 2. Install Dependencies and Start  the Development Server
+### 1. Install Dependencies and Start  the Development Server
 ```bash
 npm install
 npm start
 ```
 
-### 3. Log in or Register
+### 2. Log in or Register
 - Create a new account or sign in for a personalized experience.
 - Access team building features, saved profiles, and more.
 
-### 4. Begin Exploring
+### 3. Begin Exploring
 - Check out the Homepage for random game suggestions.
 - Use the Search Bar to find specific games or teams.
 - Click on any result to access detailed game or team info.
