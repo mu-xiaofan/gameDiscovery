@@ -33,6 +33,16 @@ npm start
  
  A dropdown menu for the user to choose whether they want to search for games or teams.
 
+ ## Game Search Results
+ ![gamesearch](resources/img/gamesearch.png)
+
+ This page displays the top 12 matching games based on the user’s search query. It is organized with a “Next Page” and “Previous Page” feature that shows 6 games per page. Each game card features the title, release date, and a representative image, allowing users to easily browse, compare, and discover new games.
+
+ ## Team search Results
+ ![teamsearch](resources/img/teamsearch.png)
+
+  The eam Search feature allows users to select “Team” from the dropdown menu and enter a keyword. If no exact match is found, three recommended teams are displayed instead. Each team card shows the team’s name, the associated game, and current members, enabling quick identification of potential teams to join.
+
  ## Game Info
  ![gameinfo](resources/img/gameinfo.png)
 
